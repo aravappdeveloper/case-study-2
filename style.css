@@ -1,0 +1,20 @@
+.img-responsive{
+  width: 250px;
+}
+b{
+  color: purple;
+}
+span{
+  font-weight: bold;
+}
+#case_study_main_result{
+  background-color: #f5ce42;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: #000080;
+  padding: 5px;
+}
+#conclusion{
+  color: #000080;
+}
